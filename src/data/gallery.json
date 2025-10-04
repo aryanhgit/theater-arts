@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "A Midsummer Night's Dream",
+    "year": "2024",
+    "highlight": "A magical and enchanting performance!",
+    "photos": [
+      "/src/images/sample.jpeg"
+    ],
+    "directorNote": "Our actors' comedic timing and the stunning set design brought this classic tale to life in a way we've never seen before. It was a truly collaborative effort.",
+    "driveLink": "https://drive.google.com/drive/folders/abcdefg"
+  },
+  {
+    "id": 2,
+    "title": "Our Town",
+    "year": "2023",
+    "highlight": "A powerful and moving performance that resonated with everyone.",
+    "photos": [
+      "/src/images/sample.jpeg"
+    ],
+    "directorNote": "We stripped away the set to focus on the raw emotion of Wilder's script. The cast delivered a breathtakingly honest performance that left the audience in tears.",
+    "driveLink": "https://drive.google.com/drive/folders/hijklmno"
+  },
+  {
+    "id": 3,
+    "title": "The Importance of Being Earnest",
+    "year": "2022",
+    "highlight": "A hilarious comedy about mistaken identities!",
+    "photos": [
+      "/src/images/sample.jpeg"
+    ],
+    "directorNote": "The witty dialogue and vibrant costumes made this a crowd favorite. Our actors perfectly captured the absurd charm of Oscar Wilde's masterpiece.",
+    "driveLink": "https://drive.google.com/drive/folders/pqrstuv"
+  },
+  {
+    "id": 4,
+    "title": "The Importance of Being Earnest",
+    "year": "2022",
+    "highlight": "A hilarious comedy about mistaken identities!",
+    "photos": [
+      "/src/images/sample.jpeg"
+    ],
+    "directorNote": "The witty dialogue and vibrant costumes made this a crowd favorite. Our actors perfectly captured the absurd charm of Oscar Wilde's masterpiece.",
+    "driveLink": "https://drive.google.com/drive/folders/pqrstuv"
+  },
+  {
+    "id": 5,
+    "title": "The Importance of Being Earnest",
+    "year": "2022",
+    "highlight": "A hilarious comedy about mistaken identities!",
+    "photos": [
+      "/src/images/sample.jpeg"
+    ],
+    "directorNote": "The witty dialogue and vibrant costumes made this a crowd favorite. Our actors perfectly captured the absurd charm of Oscar Wilde's masterpiece.",
+    "driveLink": "https://drive.google.com/drive/folders/pqrstuv"
+  }
+]

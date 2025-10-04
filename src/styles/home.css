@@ -1,0 +1,142 @@
+/* home page ------------------ */
+.homepage-container {
+  font-family: sans-serif;
+  color: black;
+}
+
+/* Hero Section */
+.hero-section {
+  position: relative;
+  background-image: url('https://picsum.photos/1000/1500'); 
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.hero-content p {
+  font-size: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-cta-btn {
+  display: inline-block;
+  background-color: #0b5394;
+  color: whitesmoke;
+  padding: 0.75rem 2rem;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.hero-cta-btn:hover {
+  background-color: #073865;
+}
+
+/* Upcoming Events Section */
+.upcoming-event-section {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: #0b5394;
+}
+
+.carousel-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.event-card {
+  text-align: center;
+  padding: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-10px);
+}
+
+.event-image {
+  width: 95%; /* Adjust for carousel spacing */
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 0 auto 1rem;
+}
+
+.event-info h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.event-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #073865;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.section-divider {
+  border: 0;
+  height: 1px;
+  background-color: #ccc;
+  margin: 3rem 0;
+}
+
+/* Explore Section  */
+
+.explore-section {
+  position: relative;
+  background-image: url('https://picsum.photos/1000/1500'); 
+  background-size: cover;
+  background-position: center;
+  height: 45vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.explore-content h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.explore-content p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.explore-cta-btn {
+  display: inline-block;
+  background-color: #0b5394;
+  color: whitesmoke;
+  padding: 0.75rem 2rem;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.explore-cta-btn:hover {
+  background-color: #073865;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "major": "Computer Science",
+    "year": "Senior",
+    "headshot": "/src/images/sample.jpeg",
+    "roles": ["Hamlet (2024)", "Macbeth (2023)"],
+    "bio": "John is a senior with a passion for classical theatre. He loves bringing complex characters to life and has been a member of the club for four years."
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "major": "Literature",
+    "year": "Junior",
+    "headshot": "/src/images/sample.jpeg",
+    "roles": ["Ophelia (2024)", "Juliet (2022)"],
+    "bio": "Jane specializes in dramatic roles and has a knack for monologues. She's also an aspiring director and has assisted in several productions."
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "major": "Film Studies",
+    "year": "Sophomore",
+    "headshot": "/src/images/sample.jpeg",
+    "roles": ["Stage Manager (2024)", "Sound Designer (2023)"],
+    "bio": "Alex works behind the scenes to make every production a success. A skilled stage manager and designer, he ensures all shows run smoothly."
+  },
+  {
+    "id": 4,
+    "name": "Emily White",
+    "major": "Theater Arts",
+    "year": "Freshman",
+    "headshot": "/src/images/sample.jpeg",
+    "roles": ["Ensemble (2024)"],
+    "bio": "Emily is a newcomer with a lot of energy and talent. She is excited to explore all aspects of theater and contribute to the club."
+  }
+]

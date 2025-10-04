@@ -1,0 +1,43 @@
+{
+  "ourStory": {
+    "title": "Our Story",
+    "paragraphs": [
+      "The program in Theater Arts at MIT invites students to explore theater as a contemporary artistic practice within an intellectually rich continuum of traditions in the performing arts.",
+      "We engage the performing arts as a mode of inquiry into self and society with the intention that it can become the vehicle for transformation of one or both. Theater Arts at MIT is process in action and interdisciplinary at its core. We are committed to a rigorous and innovative course of study across a diverse spectrum of creative practices.",
+      "Theater Arts offers a wide range of courses in the theoretical and applied practical aspects of theater: acting, performance studies, voice, movement, performance media, script analysis, playwriting, directing, and an array of courses in design and scenography. The curriculum is designed to provide students with the necessary artistic, technical, and intellectual skills along with opportunities to apply their knowledge in the studio, on stage, and on screen. Classes offered by MIT’s renowned faculty and staff are supplemented by the Artist-in-Residence Program, through the Center for Art, Science and Technology (CAST) which brings a broad spectrum of artists of international repute to MIT to work with students in classes, seminars, workshops and productions. Each individually tailored course of study offers students the curricular opportunity to pursue the Concentration in Theater Arts; the Minor in the Theater Arts; and the Major in Theater Arts."
+    ]
+  },
+  "leadership": {
+    "title": "Meet the Team",
+    "members": [
+      {
+        "id": 1,
+        "name": "Ken Urban",
+        "title": "Major Advisor",
+        "bio": "Ken Urban is the Major advisor for the Theater Arts program. He helps students navigate their academic path within the major and provides guidance on career and postgraduate opportunities.",
+        "photo": "/src/images/sample.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Blythe de Oliviera Foster",
+        "title": "Minor Advisor",
+        "bio": "Blythe is the Minor advisor, assisting students who wish to supplement their primary course of study with a deeper engagement in theater arts.",
+        "photo": "/src/images/sample.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Josh Higgason",
+        "title": "Transfer Credit Advisor",
+        "bio": "Josh specializes in helping students transfer credits and ensures their previous academic work aligns with the program's requirements.",
+        "photo": "/src/images/sample.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Dan Safer",
+        "title": "Concentration Advisor",
+        "bio": "Dan is the Concentration advisor, offering tailored advice to students pursuing a focused study within a specific area of theater arts.",
+        "photo": "/src/images/sample.jpeg"
+      }
+    ]
+  }
+}

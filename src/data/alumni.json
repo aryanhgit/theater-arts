@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Chen",
+    "years": "2010 - 2014",
+    "profession": "Theater Director, London",
+    "headshot": "/src/images/sample.jpeg",
+    "spotlight": true,
+    "bio": "Michael's passion for directing was ignited in the drama club. He went on to study at a prestigious drama school and is now a successful theater director in London's West End."
+  },
+  {
+    "id": 2,
+    "name": "Sarah Lee",
+    "years": "2012 - 2016",
+    "profession": "Broadway Actor",
+    "headshot": "/src/images/sample.jpeg",
+    "spotlight": true,
+    "bio": "Sarah credits the club with her foundational acting skills. She has since performed in several major Broadway productions and is a testament to the club's training."
+  },
+  {
+    "id": 3,
+    "name": "David Rodriguez",
+    "years": "2015 - 2019",
+    "profession": "Film Producer",
+    "headshot": "/src/images/sample.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Jessica Taylor",
+    "years": "2017 - 2021",
+    "profession": "Stage Manager, Touring Company",
+    "headshot": "/src/images/sample.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Chris Evans",
+    "years": "2019 - 2023",
+    "profession": "Sound Designer, Hollywood",
+    "headshot": "/src/images/sample.jpeg"
+  }
+]
