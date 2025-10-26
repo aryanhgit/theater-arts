@@ -22,5 +22,11 @@
     "title": "Holiday Showcase",
     "date": "December 10, 2025",
     "image": "/src/images/sample.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Holiday Showcase",
+    "date": "December 10, 2025",
+    "image": "/src/images/sample.jpeg"
   }
 ]
