@@ -3,12 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  plugins: [react(), tailwindcss(), svgr()],
-  server: {
-    port: 3000,
-  },
-  build: {
-    outDir: 'dist',
-  },
+  plugins: [react(), tailwindcss()],
   base: process.env.VITE_BASE_PATH || "/theater-arts",
 })
